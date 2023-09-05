@@ -13,16 +13,23 @@ Bibliografía: American Psychological Association. (2020). Publication manual of
 
 
 // C //
+
+
 Cronograma del proyecto: El cronograma de un proyecto es una herramienta de gestión de proyectos que te permite visualizar cómo encajan juntas todas las piezas de un proyecto, así como ayudarte a establecer dependencias específicas durante el proceso de planificación del proyecto.
 Bibliografía: American Psychological Association. (2020). Publication manual of the American Psychological Association (7th ed.). https://doi.org/10.1037/0000165-000
 
 
+
 // D //
+
+
 Diagrama de Gantt: Un diagrama de Gantt es un tipo de gestión visual de proyectos que muestra el desarrollo de un proyecto en formato de cronograma. Es una forma sencilla de dar seguimiento al ciclo de vida de un proyecto y estimar las fechas de finalización de las iniciativas específicas del proyecto.
 Bibliografía: Asana, T. (2022, noviembre 29). 39 Términos de gestión de proyectos que debes conocer [2022] Asana. Asana. https://asana.com/es/resources/project-management-terms
 
 
+
 // G //
+
 Gestión de Alcance del Proyecto: Se refiere al proceso de definir, controlar y gestionar todo el trabajo necesario para completar con éxito un proyecto, asegurando que se incluyan todos los entregables y que se mantenga dentro de los límites establecidos.
 Bibliografía: Pérez, R. (2020). Gestión de Alcance del Proyecto: Estrategias y Prácticas Efectivas. Editorial GHI.
 
@@ -40,7 +47,9 @@ Gráfico RACI: Los gráficos RACI (también denominados Matriz de asignación de
 Bibliografía: Asana, T. (2022, noviembre 29). Términos de gestión de proyectos que debes conocer [2022]  . Asana. https://asana.com/es/resources/project-management-terms
 
 
+
 // S //
+
 Scrum: Scrum es una técnica de la metodología ágil en la que los equipos aprenden de las experiencias pasadas para incidir en los próximos pasos de su proyecto. Los equipos Scrum, suelen tener un Scrum Master asignado, una persona encargada de guiar a los equipos a través de las distintas etapas de Scrum.
 La metodología Scrum se basa en cuatro etapas principales:
 •	Planificación
