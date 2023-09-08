@@ -1,5 +1,7 @@
 <h1 align='center'>Glosario 🤘</h1>
+
  ##   **A**
+ 
   -   **Alcance**→ El conjunto total de entregables (productos y sus requisitos o características) que serán generados por un proyecto. Se utiliza para representar la totalidad de trabajo necesario para dar por terminado un proyecto.
   
  ##   **C**
@@ -29,8 +31,8 @@
 
 ##   **Formato APA**→ 
 
-  -   **°** Asana, T. (2022, 29 noviembre). 39 Términos de gestión de proyectos que debes conocer [2022] • Asana. Asana. https://asana.com/es/resources/project-management-terms
-  -   **°** Martin, A. M. (s. f.). Glosario de Gestión de Proyectos. Santander. Recuperado 3 de septiembre de 2023, de https://www.santander.com.ar/banco/online/pymes-advance/formacion-empresarial/pildoras-de-conocimiento/gestion/glosario-de-gestion-de-proyectos
+  -   Asana, T. (2022, 29 noviembre). 39 Términos de gestión de proyectos que debes conocer [2022] • Asana. Asana. https://asana.com/es/resources/project-management-terms
+  -   Martin, A. M. (s. f.). Glosario de Gestión de Proyectos. Santander. Recuperado 3 de septiembre de 2023, de https://www.santander.com.ar/banco/online/pymes-advance/formacion-empresarial/pildoras-de-conocimiento/gestion/glosario-de-gestion-de-proyectos
 
 > Fecha de entrega: 07 de Septiembre del 2023
 **Actividad: Infografías sobre metodologías Lean y DevOps**
