@@ -1,75 +1,59 @@
-Glosario
+Glosario 😈
 
-1.- ACTIVIDADES DE GESTION: Son las que se relacionan con la administración de las organizaciones, personas, sistemas y procedimientos 
-comprometidos en el proceso de planificación y construcción del sistema.
+ACTIVIDADES DE GESTIÓN: Son las que se relacionan con la administración de las organizaciones, personas, sistemas y procedimientos comprometidos en el proceso de planificación y construcción del sistema. 😈
 
-SÁENZ ARTEAGA, Arturo Rodolfo; OSTOS MARIÑO, Jhony y BREMSER,Kerstin. 2016, Gestion de proyectos de software.
+ANÁLISIS DE POSIBILIDADES (WISA): WISA anticipa varios resultados posibles del proyecto y crea soluciones antes de que se produzcan.
+Algunos ejemplos incluyen una entrega con retraso, sobrepasar el presupuesto o un cambio en los recursos disponibles. 😈
 
-2.- CLIENTE: Persona a quien va dirigido el resultado del proyecto, generalmente ellos presentan un problema que requiere solución.
+CLIENTE: Persona a quien va dirigido el resultado del proyecto, generalmente ellos presentan un problema que requiere solución.😈
 
-Copyright © 2023 Esteven Write StudeerSnel B.V., Keizersgracht 424, 1016 GC Amsterdam, (Gestion de proyectos).
+DESARROLLO INCREMENTAL: es aquel en el que, con cada entrega, tenemos acabada una pieza más del sistema, pero éste no lo podemos considerar acabado hasta la entrega de la última pieza.😈
 
-3.- DESARROLLO INCREMENTAL: es aquel en el que, con cada entrega, tenemos acabada una pieza más del sistema, pero éste no lo podemos 
-considerar acabado hasta la entrega de la última pieza.
+EFICACIA: Termino que indica en qué medida un programa de asistencia logra sus objetivos, Asimismo, es el cumplimiento estricto de un dado objetivo; por ejemplo, en el plazo predeterminado, sin atender a otros aspectos tales como el costo, el recorrido, la duración, etc.😈
 
-(Beas, 2006)(CC) Jose Manuel Beas, desde 2006, Gps.
+EFICIENCIA: El grado hasta el cual se ejecutaron, administraron y organizaron las actividades de un proyecto de una manera apropiada al menor costo posible para rendir los productos y/o componentes espetados.😈
 
-4.-EFICACIA: Termino que indica en qué medida un programa de asistencia logra sus objetivos, Asimismo, es el cumplimiento estricto de 
-un dado objetivo; por ejemplo, en el plazo predeterminado, sin atender a otros aspectos tales como el costo, el recorrido, la duración, etc.
-
-LEAVY, Brian y BYRNE, P.J Revista Internacional de Gestión de Proyectos, 2014.
-
-5.- EFICIENCIA: El grado hasta el cual se ejecutaron, administraron y organizaron las actividades de un proyecto de una manera apropiada al 
-menor costo posible para rendir los productos y/o componentes espetados.
-
-ALBEROLA, J. M (Fronteras de los sistemas de información, v. 16, n. 2, 27 abr. 2014.)
-
-6.- Gestión Del Valor Ganado (EVM): La gestión del valor ganado, o EVM, es una gran manera de medir el rendimiento y el progreso de un proyecto. 
+Gestión Del Valor Ganado (EVM): La gestión del valor ganado, o EVM, es una gran manera de medir el rendimiento y el progreso de un proyecto.
 Se calcula según el alcance, el cronograma y los costos del proyecto.
 ¿Qué Es La Gestión Del Valor Ganado?
 Es un método que combina el alcance, los recursos y el cronograma para evaluar el progreso y el desempeño del proyecto.
-La gestión del valor ganado requiere una base de cronograma, finanzas y alcance. 
+La gestión del valor ganado requiere una base de cronograma, finanzas y alcance. 😈
 
-Cruzito. (2020, 17 octubre). Gestión del Valor Ganado (EVM): definición y ejemplo | Estudyando. Estudyando. 
-https://estudyando.com/gestion-del-valor-ganado-evm-definicion-y-ejemplo/ 
-
-7.- Sprint: Un sprint es la cantidad de tiempo predeterminada para completar un ciclo, una iteración o una tarea en un proyecto. es un ciclo de 
-desarrollo continuo, compuesto de sprints cortos.
-¿Qué Son Los Sprints?
-Un sprint es un período breve de tiempo fijo en el que un equipo de scrum trabaja para completar una cantidad de trabajo establecida. 
-
-Rehkopf, D. M. (s. f.). Todo lo que necesitas saber sobre los sprints de Scrum. Atlassian. https://www.atlassian.com/es/agile/scrum/sprints.
-
-8.- Trabajo En Proceso (WIP): Consiste en el trabajo aprobado que aún debe facturarse, pero que ya se completó o se realizó parcialmente. 
-Esto significa que aún se está trabajando en esa tarea y que pronto se entregarán los resultados.
-Trabajo En Proceso (WIP)
-Es una función que permite estimar el valor financiero de los proyectos en la contabilidad mientras progresa el proyecto.
-
-SorenGP. (2023, 24 marzo). Métodos WIP para calcular y registrar el progreso del proyecto - Business Central. Microsoft Learn. 
-https://learn.microsoft.com/es-es/dynamics365/business-central/projects-understanding-wip
-
-9.- Método De La Ruta Crítica (CPM): El método de la ruta crítica, es una técnica de representación para planificar el proyecto paso por paso.
-Se trata de un algoritmo que se basa en el tiempo que tomará completar cada tarea. 
+METODO DE LA RUTA CRITICA (CPM): El método de la ruta crítica, es una técnica de representación para planificar el proyecto paso por paso.
+Se trata de un algoritmo que se basa en el tiempo que tomará completar cada tarea.
 Método De La Ruta Crítica (CPM)
-	Se utiliza para proyectos con tiempos conocidos.
-	Es un modelo determinista.
-	Está orientado a la gestión efectiva de los costos
-	Es adecuado para proyectos de construcción o proyectos donde se tienen documentados antecedentes.
-	Se utiliza cuando implica trabajo de naturaleza repetitiva.
+• Se utiliza para proyectos con tiempos conocidos.
+• Es un modelo determinista.
+• Está orientado a la gestión efectiva de los costos
+• Es adecuado para proyectos de construcción o proyectos donde se tienen documentados antecedentes.
+• Se utiliza cuando implica trabajo de naturaleza repetitiva.😈
 
-Mendez, A. (2021). Método PERT CPM en la gestión de proyectos. Plan de Mejora. 
+Sprint: Un sprint es la cantidad de tiempo predeterminada para completar un ciclo, una iteración o una tarea en un proyecto. es un ciclo de desarrollo continuo, compuesto de Sprint cortos.
+¿Qué Son Los Sprint?
+Un sprint es un período breve de tiempo fijo en el que un equipo de scrum trabaja para completar una cantidad de trabajo establecida. 😈
+
+Trabajo En Proceso (WIP): Consiste en el trabajo aprobado que aún debe facturarse, pero que ya se completó o se realizó parcialmente. Esto significa que aún se está trabajando en esa tarea y que pronto se entregarán los resultados. Es una función que permite estimar el valor financiero de los proyectos en la contabilidad mientras progresa el proyecto.😈
+
+Referencias Bibliográficas😈
+
+SÁENZ ARTEAGA, Arturo Rodolfo; OSTOS MARIÑO, Jhony y BREMSER,Kerstin. 2016, Gestion de proyectos de software.
+Copyright © 2023 Esteven Write StudeerSnel B.V., Keizersgracht 424, 1016 GC Amsterdam, (Gestion de proyectos).
+(Beas, 2006)(CC) Jose Manuel Beas, desde 2006, Gps.
+LEAVY, Brian y BYRNE, P.J Revista Internacional de Gestión de Proyectos, 2014.
+ALBEROLA, J. M (Fronteras de los sistemas de información, v. 16, n. 2, 27 abr. 2014.)
+Cruzito. (2020, 17 octubre). Gestión del Valor Ganado (EVM): definición y ejemplo | Estudyando. Estudyando. https://estudyando.com/gestion-del-valor-ganado-evm-definicion-y-ejemplo/
+Rehkopf, D. M. (s. f.). Todo lo que necesitas saber sobre los sprints de Scrum. Atlassian. https://www.atlassian.com/es/agile/scrum/sprints.
+SorenGP. (2023, 24 marzo). Métodos WIP para calcular y registrar el progreso del proyecto - Business Central. Microsoft Learn. https://learn.microsoft.com/es-es/dynamics365/business-central/projects-understanding-wip
+Mendez, A. (2021). Método PERT CPM en la gestión de proyectos. Plan de Mejora.
 https://www.plandemejora.com/metodo-pert-cpm-en-la-gestion-de-proyectos/
+Milbrath, S. (2021, 8 septiembre).
+Glosario de gestión de proyectos con 50 términos que deberías conocer trello. Recuperado 2 de septiembre de 2023, de https://blog.trello.com/es/glosario-de-gestion-deproyectos.
 
-10.-Análisis De Posibilidades (WISA): WISA anticipa varios resultados posibles del proyecto y crea soluciones antes de que se produzcan.
-Algunos ejemplos incluyen una entrega con retraso, sobrepasar el presupuesto o un cambio en los recursos disponibles.
+Integrantes Del Equipo Ficachi😈
 
-Milbrath, S. (2021, 8 septiembre). 
-Glosario de gestión de proyectos con 50 términos que deberías conocer trello. Recuperado 2 de septiembre de 2023,
-de https://blog.trello.com/es/glosario-de-gestion-deproyectos.
+• Acopa Pinzón Jorge Antonio😈
+• Álvarez Taylor Dayhana😈
+• Gonzales Martínez Juan Carlos😈
+• Navarro Sampé Adriana Dánae😈
+• Sánchez Cruz Daniel Alejandro😈
 
-Integrantes Del Equipo Ficachi
-Acopa Pinzon Jorge Antonio
-Alvarez Taylor Dayhana
-Gonzales Martinez Juan Carlos
-Navarro Sampe Adriana Danae
-Sanchez Cruz Daniel Alejandro7
